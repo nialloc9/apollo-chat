@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error renders 1`] = `
+<Styled(Message)
+  margin="1.4286rem auto auto auto"
+  negative={true}
+>
+  test
+</Styled(Message)>
+`;
+
+exports[`Form renders 1`] = `
+<Form
+  as="form"
+  onSubmit={[Function]}
+>
+  <Error
+    error={null}
+    touched={true}
+  />
+  <Warning
+    touched={true}
+    warning={null}
+  />
+  <Success
+    success={null}
+    touched={true}
+  />
+</Form>
+`;
+
+exports[`Information renders 1`] = `""`;
+
+exports[`Input renders 1`] = `
+<FormField>
+  <Label
+    inputLabel="test"
+  />
+  <Styled(Input)
+    onChange={[Function]}
+    placeholder="test"
+    type="text"
+    value="text"
+  />
+  <Error
+    error={null}
+    touched={false}
+    warning={null}
+  />
+  <Warning
+    error={null}
+    touched={false}
+    warning={null}
+  />
+</FormField>
+`;
+
+exports[`Label renders 1`] = `""`;
+
+exports[`Success renders 1`] = `
+<Styled(Message)
+  margin="1.4286rem auto auto auto"
+  positive={true}
+  touched={true}
+>
+  test
+</Styled(Message)>
+`;
+
+exports[`TextArea renders 1`] = `
+<div>
+  <Label
+    label="test"
+  />
+  <TextArea
+    as="textarea"
+    onChange={[Function]}
+    rows={3}
+    value="text"
+  />
+  <Error
+    error={null}
+    touched={false}
+    warning={null}
+  />
+  <Warning
+    error={null}
+    touched={false}
+    warning={null}
+  />
+</div>
+`;
+
+exports[`Warning renders 1`] = `
+<Styled(Message)
+  color="yellow"
+  margin="1.4286rem"
+  touched={true}
+>
+  test
+</Styled(Message)>
+`;

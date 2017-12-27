@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 235 215" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="a" cx="881.25" cy="1329.1" r="115.4" gradientTransform="matrix(1 0 0 .91415 0 114.1)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#008000" offset="0"/>
+   <stop stop-color="#008000" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0 -837.36)">
+  <g transform="translate(-762.97 -383.27)">
+   <g stroke="#000" stroke-linecap="round" stroke-width=".2314">
+    <rect x="765.97" y="1223.7" width="230.56" height="210.75" fill="#0f0"/>
+    <rect x="765.97" y="1223.7" width="230.56" height="210.75" fill="url(#a)" opacity=".667"/>
+   </g>
+   <g transform="translate(4.8058 14.676)">
+    <path d="m876.39 1299.5a33.48 38.404 0 0 1 -33.331 38.403 33.48 38.404 0 0 1 -33.628 -38.061 33.48 38.404 0 0 1 33.032 -38.742 33.48 38.404 0 0 1 33.922 37.717" fill="#fff"/>
+    <path d="m953.2 1299.5a33.48 38.404 0 0 1 -33.331 38.403 33.48 38.404 0 0 1 -33.628 -38.061 33.48 38.404 0 0 1 33.032 -38.742 33.48 38.404 0 0 1 33.922 37.717" fill="#fff"/>
+    <path d="m799.58 1351.7c51.205 39.98 102.41 47.186 153.61-1.9695" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#fff" stroke-width="3" style="isolation:auto;mix-blend-mode:normal"/>
+    <path d="m860.63 1298.5a14.771 17.725 0 0 1 -14.705 17.724 14.771 17.725 0 0 1 -14.836 -17.567 14.771 17.725 0 0 1 14.573 -17.881 14.771 17.725 0 0 1 14.965 17.408" fill="#000080"/>
+    <path d="m931.53 1298.5a14.771 17.725 0 0 1 -14.705 17.724 14.771 17.725 0 0 1 -14.836 -17.567 14.771 17.725 0 0 1 14.573 -17.881 14.771 17.725 0 0 1 14.965 17.408" fill="#000080"/>
+    <path d="m811.34 1252.5c24.541-13.564 41.418-7.9648 57.348 0" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#fff" stroke-width="2.4959" style="isolation:auto;mix-blend-mode:normal"/>
+    <path d="m945.45 1254.5c-24.541-13.564-41.418-7.9648-57.348 0" color="#000000" color-rendering="auto" fill="none" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="#fff" stroke-width="2.4959" style="isolation:auto;mix-blend-mode:normal"/>
+    <path d="m855.01 1290.4a5.0877 6.1052 0 0 1 -5.065 6.1051 5.0877 6.1052 0 0 1 -5.1101 -6.0508 5.0877 6.1052 0 0 1 5.0195 -6.159 5.0877 6.1052 0 0 1 5.1548 5.996" fill="#fff"/>
+    <path d="m915.01 1290.4a5.0877 6.1052 0 0 1 -5.065 6.1051 5.0877 6.1052 0 0 1 -5.1101 -6.0508 5.0877 6.1052 0 0 1 5.0195 -6.159 5.0877 6.1052 0 0 1 5.1548 5.996" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

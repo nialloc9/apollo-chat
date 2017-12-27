@@ -1,0 +1,2 @@
+export const AUTHORISE_SET = "AUTHORISE_SET";
+export const AUTHORISE_RESET = "AUTHORISE_RESET";

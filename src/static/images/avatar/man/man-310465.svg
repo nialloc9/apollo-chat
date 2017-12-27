@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 221.21 206.07" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="g" x1=".48824" x2=".48824" y1="1.007" y2="-.007042">
+   <stop stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".492" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x1=".46032" x2=".46032" y1=".98592" y2=".007042">
+   <stop stop-color="#e28700" offset="0"/>
+   <stop stop-color="#ffdbaf" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1=".49225" x2=".49225" y1=".99296" y2=".007042">
+   <stop stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".016" offset=".25316"/>
+   <stop stop-color="#fff" stop-opacity=".7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1=".49286" x2=".49286" y1=".98592">
+   <stop stop-color="#5ea730" offset="0"/>
+   <stop stop-color="#8eef2c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill-rule="evenodd">
+  <path d="m205.34 190.74c3.2244-55.782-40.608-97.787-96.391-101.01-55.782-3.2244-103.67 39.431-106.9 95.214-0.24861 4.3009-0.23833 2.0671 0.03449 6.3665l101.02-0.5252 102.23-0.0438z" fill="url(#e)" stroke="#008c00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+  <path d="m190.92 189.56" fill="url(#h)" stroke-width="1.25"/>
+  <path d="m156.07 64.258a54.437 62.382 0 1 0 -108.87 0 54.437 62.382 0 1 0 108.87 0z" fill="url(#f)" stroke="#854b12" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75"/>
+  <g stroke-width="1.25">
+   <path d="m51.026 43.071c0-2.6483-4.4138 10.593 15.007 11.77s38.547-29.72 53.849-25.012c15.301 4.7081 22.363 24.129 31.191 11.77 4.4138-10.005-26.189-34.428-26.189-34.428s-14.124-5.8851-22.952-5.8851c-8.8276 0-25.306 6.4736-29.426 9.4162-4.1196 2.9426-13.536 14.713-13.536 14.713l-7.9449 17.655z" fill="#854b12"/>
+   <path d="m53.52 42.226c-0.74187 4.3693 4.5154 7.3315 7.9894 8.5406 6.1794 1.7655 11.849 3.6897 37.665-17.655 22.854-22.272 8.207-31.018-9.2359-28.434-14.124 2.354-32.35 18.775-36.418 37.549z" fill="url(#g)"/>
+  </g>
+ </g>
+</svg>

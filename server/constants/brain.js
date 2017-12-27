@@ -1,0 +1,1 @@
+export const BRAIN_DISCONNECT = "BRAIN_DISCONNECT";

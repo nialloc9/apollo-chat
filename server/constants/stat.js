@@ -1,0 +1,3 @@
+export const STAT_FETCH = "STAT_FETCH";
+export const STAT_FETCH_SUCCESS = "STAT_FETCH_SUCCESS";
+export const STAT_FETCH_ERROR = "STAT_FETCH_ERROR";
